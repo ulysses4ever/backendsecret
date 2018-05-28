@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Сайт @backendsecret]]></title>
+        <description><![CDATA[Коллективный твиттер-аккаунт для бэкенд-разработчиков с новым автором каждую неделю]]></description>
+        <link>https://backendsecret.ru/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 28 May 2018 15:49:52 GMT</lastBuildDate>
+        <atom:link href="https://backendsecret.ru/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[MIT]]></copyright>
+        <language><![CDATA[ru]]></language>
+        <managingEditor><![CDATA[iamstarkov@gmail.com (Vladimir Starkov)]]></managingEditor>
+        <webMaster><![CDATA[iamstarkov@gmail.com (Vladimir Starkov)]]></webMaster>
+        <category><![CDATA[twitter]]></category>
+        <item>
+            <title><![CDATA[qnikst]]></title>
+            <description><![CDATA[<p>Здравствуйте, эту неделю ведущим <a href="https://twitter.com/backendsecret" title="Разработчик backend'а">@backendsecret</a><br />
+буду я - Вершилов Александр. Я работаю во французской<br />
+фирме Tweag I… <a href="https://t.co/J2mApHnJWc" title="https://twitter.com/i/web/status/998527045297729536">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/qnikst/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/qnikst/</guid>
+            <pubDate>Mon, 21 May 2018 11:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[igor_alexandrov]]></title>
+            <description><![CDATA[<p>Всем привет! Эту неделю с вами будет <a href="https://twitter.com/igor_alexandrov" title="Igor Alexandrov">@igor_alexandrov</a>. Сооснователь <a href="https://twitter.com/jetrockets_pro" title="JetRockets">@jetrockets_pro</a> и Ruby разработчик.</p>
+]]></description>
+            <link>https://backendsecret.ru/igor_alexandrov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/igor_alexandrov/</guid>
+            <pubDate>Mon, 14 May 2018 11:21:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[aka_le_Mulder]]></title>
+            <description><![CDATA[<p>Всем привет. На этой неделе я с вами из солнечной Калифорнии. Мы решили мое дежурство совместить с моей поездкой на… <a href="https://t.co/UjQpGZYVIj" title="https://twitter.com/i/web/status/993532621756874753">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/aka_le_Mulder/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/aka_le_Mulder/</guid>
+            <pubDate>Mon, 07 May 2018 16:46:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[flex_ferrum]]></title>
+            <description><![CDATA[<p>Здравствуйте. Меня зовут Сергей и я ал..., пардон, архитектор. На этой неделе буду вашим ведущим в backendsecret. П… <a href="https://t.co/QtziSWveB2" title="https://twitter.com/i/web/status/988317076682092545">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/flex_ferrum/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/flex_ferrum/</guid>
+            <pubDate>Mon, 23 Apr 2018 07:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[frontend_sanya]]></title>
+            <description><![CDATA[<p>Всем привет! Меня зовут Александр, являюсь ведущим JavaScript разработчиком в &lt;censored&gt; где-то на орбите финтеха.… <a href="https://t.co/3ssgJz3UxT" title="https://twitter.com/i/web/status/985831718375567360">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/frontend_sanya/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/frontend_sanya/</guid>
+            <pubDate>Mon, 16 Apr 2018 10:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dsimonov_2]]></title>
+            <description><![CDATA[<p>Всем привет, сегодня с вами я, - Дмитрий Симонов, технический директор <a href="https://t.co/b1bftb5buI" title="http://drimsim.com">drimsim.com</a>. Я расскажу про то,… <a href="https://t.co/6HA9QSakv0" title="https://twitter.com/i/web/status/983227053217632256">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/dsimonov_2/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/dsimonov_2/</guid>
+            <pubDate>Mon, 09 Apr 2018 06:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rbektour]]></title>
+            <description><![CDATA[<p>Всем привет! Меня зовут Бектур и на этой неделе я буду ведущим. Коротко о себе: занимаюсь исследованиями в области… <a href="https://t.co/DM4jyQWkSe" title="https://twitter.com/i/web/status/980723739447848960">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/rbektour/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/rbektour/</guid>
+            <pubDate>Mon, 02 Apr 2018 08:28:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dshevchenko_biz]]></title>
+            <description><![CDATA[<p>Всем доброго утра! В следующие семь дней с вами Денис <a href="https://twitter.com/dshevchenko_biz" title="Δenis Shevchenko">@dshevchenko_biz</a> Шевченко, программист, известный в узких кру… <a href="https://t.co/4jKP3Imqsn" title="https://twitter.com/i/web/status/975605698213138432">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/dshevchenko_biz/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/dshevchenko_biz/</guid>
+            <pubDate>Mon, 19 Mar 2018 05:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[daniel_vartanov]]></title>
+            <description><![CDATA[<p>Всем привет, сегодня с вами Даник Вартанов (нет, не из Пятигорска, сорян).<br />
+Выжил в стартапе, весь в крови и шрамах, но стартап взлетел.</p>
+]]></description>
+            <link>https://backendsecret.ru/daniel_vartanov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/daniel_vartanov/</guid>
+            <pubDate>Mon, 05 Mar 2018 12:13:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[_bravit]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе в <a href="https://twitter.com/backendsecret" title="Разработчик бэкенда">@backendsecret</a> не разработчик бэкенда, а я, Виталий Брагилевский, <a href="https://twitter.com/_bravit" title="Виталий Брагилевский">@_bravit</a>, преподава… <a href="https://t.co/CeRiWPdiu9" title="https://twitter.com/i/web/status/968041992293842945">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/_bravit/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/_bravit/</guid>
+            <pubDate>Mon, 26 Feb 2018 08:36:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[it_poselok]]></title>
+            <description><![CDATA[<p>Привет! Меня зовут Алексей Конышев, я несу добро с помощью <a href="https://t.co/fFdTKuGSBk" title="http://poselok-programmistov.ru">poselok-programmistov.ru</a>, а также путем руководства разра… <a href="https://t.co/7nMTMzuYTm" title="https://twitter.com/i/web/status/965504231682859008">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/it_poselok/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/it_poselok/</guid>
+            <pubDate>Mon, 19 Feb 2018 08:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lazin]]></title>
+            <description><![CDATA[<p>Здравствуйте, меня зовут Женя и я ал^W почти каждый день пишу код на С++ последние 13 лет.</p>
+]]></description>
+            <link>https://backendsecret.ru/Lazin/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/Lazin/</guid>
+            <pubDate>Mon, 12 Feb 2018 06:16:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ctrlok-2]]></title>
+            <description><![CDATA[<p>Всем привет. Меня зовут Сева и я DevOps (ух, как в алкоголизме признался, хотя одно другому не мешает). На этой нед… <a href="https://t.co/Rz8YduAjRI" title="https://twitter.com/i/web/status/960274610037116931">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/ctrlok-2/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/ctrlok-2/</guid>
+            <pubDate>Sun, 04 Feb 2018 22:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KostyaEsmukov]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе с вами <a href="https://twitter.com/KostyaEsmukov" title="Kostya Esmukov">@KostyaEsmukov</a> из Казани. Поговорим об Ansible, Django и немного о фронтенде.</p>
+]]></description>
+            <link>https://backendsecret.ru/KostyaEsmukov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/KostyaEsmukov/</guid>
+            <pubDate>Mon, 29 Jan 2018 08:20:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sergeylanz]]></title>
+            <description><![CDATA[<p>Привет всем<br />
+На этой недели с вами я Сергей Ланцман. Мне 30 лет, живу я в Израиле  половина жизни.<br />
+Занимаюсь backen… <a href="https://t.co/6yL8k9WxJa" title="https://twitter.com/i/web/status/955348574438678530">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/sergeylanz/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/sergeylanz/</guid>
+            <pubDate>Mon, 22 Jan 2018 07:57:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[vvn33]]></title>
+            <description><![CDATA[<p>Всем привет, на этой неделе с Вами <a href="https://twitter.com/vvn33" title="Victor Volchek">@vvn33</a> из столицы древней Руси славного города Владимир-на-Клязьме</p>
+]]></description>
+            <link>https://backendsecret.ru/vvn33/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/vvn33/</guid>
+            <pubDate>Mon, 15 Jan 2018 08:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[avovsya]]></title>
+            <description><![CDATA[<p>Всем привет, на этой неделе с вами <a href="https://twitter.com/avovsya" title="Smoothie &amp; Cat">@avovsya</a> . Senior Software Engineer в Skimlinks</p>
+]]></description>
+            <link>https://backendsecret.ru/avovsya/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/avovsya/</guid>
+            <pubDate>Mon, 08 Jan 2018 09:07:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kostenko]]></title>
+            <description><![CDATA[<p>Доброе утро. На этой неделе с вами <a href="https://twitter.com/kostenko" title="ХЪЪЁЯ">@kostenko</a> из солнечного Хельсинки</p>
+]]></description>
+            <link>https://backendsecret.ru/kostenko/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/kostenko/</guid>
+            <pubDate>Mon, 18 Dec 2017 05:52:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[yegor256]]></title>
+            <description><![CDATA[<p>Всем привет, с вами эту неделю будет <a href="https://twitter.com/yegor256" title="Yegor Bugayenko">@yegor256</a> Прошу соблюдать правила приличия, не хамить, не грубить, не переходи… <a href="https://t.co/qoJVY88Eyn" title="https://twitter.com/i/web/status/939929557653708801">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/yegor256/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/yegor256/</guid>
+            <pubDate>Sun, 10 Dec 2017 18:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[a_soldatenko]]></title>
+            <description><![CDATA[<p>Всем продуктивного понедельника! Да поможет вам Тьюринг!</p>
+]]></description>
+            <link>https://backendsecret.ru/a_soldatenko/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/a_soldatenko/</guid>
+            <pubDate>Mon, 04 Dec 2017 09:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tolkv]]></title>
+            <description><![CDATA[<p>Всем привет. С вами очередной Разработчик бэкенда - Кирилл Толкачёв <a href="https://twitter.com/tolkv" title="Толкачёв Кирилл">@tolkv</a>.<br />
+Начну я не с представления себя любимог… <a href="https://t.co/X0RQYfGw8v" title="https://twitter.com/i/web/status/930828812102840327">twitter.com/i/web/status/9…</a></p>
+]]></description>
+            <link>https://backendsecret.ru/tolkv/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/tolkv/</guid>
+            <pubDate>Wed, 15 Nov 2017 16:04:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[svetlyak40wt]]></title>
+            <description><![CDATA[<p>Всем привет!</p>
+<p>На этой неделе с вами Александр Артеменко (<a href="https://twitter.com/svetlyak40wt" title="svetlyak40wt">@svetlyak40wt</a>).</p>
+<p>Занимаюсь разработкой уже 17 лет, не считая школы и универа.</p>
+]]></description>
+            <link>https://backendsecret.ru/svetlyak40wt/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/svetlyak40wt/</guid>
+            <pubDate>Mon, 06 Nov 2017 09:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ATavgen]]></title>
+            <description><![CDATA[<p>Привет, на этой неделе с вами Александр Тавген, из Тарту.  В индустрии 17 лет. На данный момент Software Architect в крупной компании.</p>
+]]></description>
+            <link>https://backendsecret.ru/ATavgen/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/ATavgen/</guid>
+            <pubDate>Mon, 30 Oct 2017 07:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[vlialkin ]]></title>
+            <description><![CDATA[<p>Привет! Эту неделю с вами буду я, Слава <a href="https://twitter.com/vlialkin" title="Vyacheslav">@vlialkin</a> из белорусского Витебска: java-программист, тимлид и немного менеджер</p>
+]]></description>
+            <link>https://backendsecret.ru/vlialkin /</link>
+            <guid isPermaLink="true">https://backendsecret.ru/vlialkin /</guid>
+            <pubDate>Mon, 23 Oct 2017 07:04:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gurugray]]></title>
+            <description><![CDATA[<p>Всем привет, на этой неделе с вами <a href="https://twitter.com/gurugray" title="Sergey Sergeev">@gurugray</a> и мы поговорим про <a href="https://twitter.com/search?q=%23git">#git</a> и пророка его <a href="https://twitter.com/search?q=%23github">#github</a></p>
+]]></description>
+            <link>https://backendsecret.ru/gurugray/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/gurugray/</guid>
+            <pubDate>Mon, 16 Oct 2017 13:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[develop7]]></title>
+            <description><![CDATA[<p>Прывітанне из солнечной Беларуси. На этой неделе у микрофона я, <a href="https://twitter.com/develop7" title="Schrödinger's Troll">@develop7</a>.</p>
+]]></description>
+            <link>https://backendsecret.ru/develop7/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/develop7/</guid>
+            <pubDate>Mon, 09 Oct 2017 09:41:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[andrius_mobi]]></title>
+            <description><![CDATA[<p>Всем доброе утро. Мое имя Андрюс, я занимаюсь CTI, про это и  и будет на этой неделе. Начну во второй половине дня.</p>
+]]></description>
+            <link>https://backendsecret.ru/andrius_mobi/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/andrius_mobi/</guid>
+            <pubDate>Mon, 02 Oct 2017 08:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[nazarov_tech]]></title>
+            <description><![CDATA[<p>привет, зайцы :)</p>
+<p>Эту неделю тви для вас ведёт <a href="https://twitter.com/nazarov_tech" title="Dmitry Nazarov">@nazarov_tech</a> из Петербурга. Питонист, джаваскриптер (ну, такое) и организатор айти-движа.</p>
+]]></description>
+            <link>https://backendsecret.ru/nazarov_tech/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/nazarov_tech/</guid>
+            <pubDate>Mon, 25 Sep 2017 09:11:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kalashnikovisme]]></title>
+            <description><![CDATA[<p>Доброго утра понедельника! На этой неделе с вами буду я, <a href="https://twitter.com/kalashnikovisme" title="Павел Калашников">@kalashnikovisme</a>. Я 5 леткак рубист, и на этой неделе мы поговорим:</p>
+]]></description>
+            <link>https://backendsecret.ru/kalashnikovisme/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/kalashnikovisme/</guid>
+            <pubDate>Mon, 11 Sep 2017 05:44:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tshiorny_eugene]]></title>
+            <description><![CDATA[<p>Всем доброго времени суток! Первую неделю нового сезона с вами Женя Чёрный, мультстек архитектор и в свободное время энтрепренер.</p>
+]]></description>
+            <link>https://backendsecret.ru/tshiorny_eugene/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/tshiorny_eugene/</guid>
+            <pubDate>Sun, 03 Sep 2017 21:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JFrog]]></title>
+            <description><![CDATA[<p>Привет, котеги, на этой неделе с вами <a href="https://twitter.com/jbaruch" title="Baruch Sadogursky">@jbaruch</a>. Developer Advocate <a href="https://twitter.com/jfrog" title="JFrog">@jfrog</a>, резидент <a href="https://twitter.com/razbor_poletov" title="Razbor Poletov">@razbor_poletov</a>, спикер <a href="https://twitter.com/JUGru" title="JUG.ru">@JUGru</a>.</p>
+]]></description>
+            <link>https://backendsecret.ru/JFrog/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/JFrog/</guid>
+            <pubDate>Mon, 24 Jul 2017 15:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VitalyLiber]]></title>
+            <description><![CDATA[<p>Всем привет из Новосибирска! С вами <a href="https://twitter.com/VitalyLiber" title="Vitaly Liber">@VitalyLiber</a>. Работаю с <a href="https://twitter.com/search?q=%23rubyonrails">#rubyonrails</a> и <a href="https://twitter.com/search?q=%23docker">#docker</a>. Присматриваюсь к <a href="https://twitter.com/search?q=%23golang">#golang</a> 😀</p>
+]]></description>
+            <link>https://backendsecret.ru/VitalyLiber/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/VitalyLiber/</guid>
+            <pubDate>Mon, 17 Jul 2017 04:33:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[b0noi]]></title>
+            <description><![CDATA[<p>Всем 👋! С вами на этой неделе Вячеслав Ковалевский ( <a href="https://twitter.com/b0noi" title="Viacheslav">@b0noi</a> ).</p>
+]]></description>
+            <link>https://backendsecret.ru/b0noi/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/b0noi/</guid>
+            <pubDate>Mon, 19 Jun 2017 16:55:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[vanadium23]]></title>
+            <description><![CDATA[<p>Доброго времени суток, меня зовут <a href="https://twitter.com/vanadium23" title="Геймификация и мемы">@vanadium23</a> и эту неделю я буду вести <a href="https://twitter.com/backendsecret" title="Разработчик бэкенда">@backendsecret</a>.</p>
+]]></description>
+            <link>https://backendsecret.ru/vanadium23/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/vanadium23/</guid>
+            <pubDate>Mon, 05 Jun 2017 07:54:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fads93_zombie]]></title>
+            <description><![CDATA[<p>Привет читателям <a href="https://twitter.com/backendsecret" title="Разработчик бэкенда">@backendsecret</a>! На этой неделе с вами <a href="https://twitter.com/fads93_zombie" title="Amir Aupov">@fads93_zombie</a></p>
+]]></description>
+            <link>https://backendsecret.ru/fads93_zombie/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/fads93_zombie/</guid>
+            <pubDate>Mon, 29 May 2017 07:37:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ifesdjeen]]></title>
+            <description><![CDATA[<p>Всем привет 👋 на этой неделе с вами я <a href="https://twitter.com/ifesdjeen" title="αλεx π">@ifesdjeen</a>. Начнём с баз данных? Если интересно узнать про on disk storage и Cassandra - жду вопросов!</p>
+]]></description>
+            <link>https://backendsecret.ru/ifesdjeen/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/ifesdjeen/</guid>
+            <pubDate>Mon, 22 May 2017 08:17:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[s_kibish]]></title>
+            <description><![CDATA[<p>Всем привет! Меня зовут Сергей Кибиш, и эту неделю я с вами :)</p>
+]]></description>
+            <link>https://backendsecret.ru/s_kibish/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/s_kibish/</guid>
+            <pubDate>Mon, 15 May 2017 08:27:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gronpipmaster]]></title>
+            <description><![CDATA[<p>Всем привет! Меня зовут Иван.</p>
+]]></description>
+            <link>https://backendsecret.ru/gronpipmaster/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/gronpipmaster/</guid>
+            <pubDate>Mon, 08 May 2017 08:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[a_abashev]]></title>
+            <description><![CDATA[<p>Ну вот мальчики и девочки, на этой неделе вас будет развлекать Абашев Алексей из подкаста <a href="https://twitter.com/razbor_poletov" title="Razbor Poletov">@razbor_poletov</a></p>
+]]></description>
+            <link>https://backendsecret.ru/a_abashev/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/a_abashev/</guid>
+            <pubDate>Mon, 01 May 2017 08:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSharpGL]]></title>
+            <description><![CDATA[<p>Всем привет! Меня зовут Ярослав (<a href="https://twitter.com/CSharpGL" title="Yaroslav Lukyanov">@CSharpGL</a>) и я занимаю позицию Senior Software Developer at <a href="https://twitter.com/openprovider" title="Openprovider">@openprovider</a></p>
+]]></description>
+            <link>https://backendsecret.ru/CSharpGL/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/CSharpGL/</guid>
+            <pubDate>Mon, 17 Apr 2017 05:11:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[freiksenet_ru]]></title>
+            <description><![CDATA[<p>Привет! На этой неделе с вами <a href="https://twitter.com/freiksenet" title="Mikhail Novikov">@freiksenet</a> (<a href="https://twitter.com/freiksenet_ru" title="Михаил Новиков">@freiksenet_ru</a>). Я буду рассказывать про GraphQL, стартапы и консалтинг.</p>
+]]></description>
+            <link>https://backendsecret.ru/freiksenet_ru/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/freiksenet_ru/</guid>
+            <pubDate>Mon, 10 Apr 2017 09:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[_beargummy]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе с вами я, <a href="https://twitter.com/_beargummy" title="Daniil Kudryavtsev">@_beargummy</a>.</p>
+]]></description>
+            <link>https://backendsecret.ru/_beargummy/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/_beargummy/</guid>
+            <pubDate>Mon, 27 Mar 2017 11:43:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[xors_]]></title>
+            <description><![CDATA[<p>Привет, с вами <a href="https://twitter.com/xors_" title="Sergey Grigorev">@xors_</a>, на неделе будет всего понемногу от голограмм до big data и functional programming.</p>
+]]></description>
+            <link>https://backendsecret.ru/xors_/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/xors_/</guid>
+            <pubDate>Mon, 20 Mar 2017 06:21:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[en_austin-2]]></title>
+            <description><![CDATA[<p>Привет! С вами снова <a href="https://twitter.com/en_austin" title="Vladimir `AusTiN`">@en_austin</a>, и я снова буду рассказывать про DevOps в понимании нашей компании, про легаси и прочие ужасы современности.</p>
+]]></description>
+            <link>https://backendsecret.ru/en_austin-2/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/en_austin-2/</guid>
+            <pubDate>Mon, 13 Mar 2017 09:25:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[torgeek]]></title>
+            <description><![CDATA[<p>Всем привет из Хабаровска! Я организатор разработческого дела. У нас ночь. Жду (и волнуюсь) от вас вопросов к своему утру.</p>
+]]></description>
+            <link>https://backendsecret.ru/torgeek/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/torgeek/</guid>
+            <pubDate>Mon, 06 Mar 2017 13:03:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[shutyourprogram]]></title>
+            <description><![CDATA[<p>Всем привет, на этой неделе с вами Стас Слесарев <a href="https://twitter.com/shutyourprogram" title="Stanislav Slesarev">@shutyourprogram</a></p>
+]]></description>
+            <link>https://backendsecret.ru/shutyourprogram/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/shutyourprogram/</guid>
+            <pubDate>Mon, 27 Feb 2017 08:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[webdeva]]></title>
+            <description><![CDATA[<p>Здравствуйте! С вами <a href="https://twitter.com/webdeva" title="Elena Grahovac">@webdeva</a>. Пишу микросервисы на Go в <a href="https://twitter.com/openprovider" title="Openprovider">@openprovider</a>. А ещё меня регулярно можно слышать в <a href="https://twitter.com/GolangShow" title="GolangShow">@GolangShow</a>.</p>
+]]></description>
+            <link>https://backendsecret.ru/webdeva/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/webdeva/</guid>
+            <pubDate>Mon, 20 Feb 2017 04:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[alexkorotkikh]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе с вами <a href="https://twitter.com/alexkorotkikh" title="Alex Korotkikh">@alexkorotkikh</a> из пасмурного Гамбурга. Я работаю в компании <a href="https://twitter.com/Kreditech" title="Kreditech">@Kreditech</a> на позиции VP Engineering</p>
+]]></description>
+            <link>https://backendsecret.ru/alexkorotkikh/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/alexkorotkikh/</guid>
+            <pubDate>Mon, 06 Feb 2017 12:57:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BesseIFunction]]></title>
+            <description><![CDATA[<p>Доброе утро, с вами Марина <a href="https://twitter.com/BesseIFunction" title="Dany Lee">@BesseIFunction</a>. Работаю на scala четыре года. Сейчас разрабатываю рекламную платформу.</p>
+]]></description>
+            <link>https://backendsecret.ru/BesseIFunction/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/BesseIFunction/</guid>
+            <pubDate>Mon, 30 Jan 2017 07:50:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sheershoff ]]></title>
+            <description><![CDATA[<p>Приветствую, на этой неделе с вами <a href="https://twitter.com/sheershoff" title="Ilya Sheershoff">@sheershoff</a> full stack web dev из Екатеринбурга. Я разрабатываю сайты и сервисы с 2000г.</p>
+]]></description>
+            <link>https://backendsecret.ru/sheershoff /</link>
+            <guid isPermaLink="true">https://backendsecret.ru/sheershoff /</guid>
+            <pubDate>Mon, 23 Jan 2017 06:49:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gahcep]]></title>
+            <description><![CDATA[<p>Привет! На этой неделе с вами C++ embedded dev в Imaging (digital cameras) Сергей Даниельян <a href="https://twitter.com/gahcep" title="Sergei Danielian">@gahcep</a>. Недавно еще и PTL одного из проектов.</p>
+]]></description>
+            <link>https://backendsecret.ru/gahcep/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/gahcep/</guid>
+            <pubDate>Mon, 16 Jan 2017 00:54:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dvbobrov]]></title>
+            <description><![CDATA[<p>Доброе утро! На этой неделе с вами из &lt;s&gt;солнечного&lt;/s&gt;заснеженного Сочи Дмитрий Бобров (<a href="https://twitter.com/dvbobrov" title="Dmitry Bobrov">@dvbobrov</a>).</p>
+]]></description>
+            <link>https://backendsecret.ru/dvbobrov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/dvbobrov/</guid>
+            <pubDate>Mon, 19 Dec 2016 09:55:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gAmUssA]]></title>
+            <description><![CDATA[<p>Добрый день,добрый вечер,доброе утро, добройночии! Всем здравствуйте. Меня зовут Виктор Гамов и на этой неделе я буду ведущим <a href="https://twitter.com/backendsecret" title="Разработчик бэкенда">@backendsecret</a></p>
+]]></description>
+            <link>https://backendsecret.ru/gAmUssA/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/gAmUssA/</guid>
+            <pubDate>Mon, 05 Dec 2016 10:33:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arhelmus]]></title>
+            <description><![CDATA[<p>Всем привет, с вами <a href="https://twitter.com/Arhelmus" title="Arthur Kushka">@Arhelmus</a>, адепт Scala секты и любитель поговорить на тему того что ООП не нужно.</p>
+]]></description>
+            <link>https://backendsecret.ru/Arhelmus/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/Arhelmus/</guid>
+            <pubDate>Mon, 28 Nov 2016 06:48:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PIlIGRIM]]></title>
+            <description><![CDATA[<p>Привет! На этой неделе с вами Пинхас Равинский, backend developer at Intento.<br />
+Пишу в основном на Python, занимаюсь всем около API и данных.</p>
+]]></description>
+            <link>https://backendsecret.ru/PIlIGRIM/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/PIlIGRIM/</guid>
+            <pubDate>Mon, 21 Nov 2016 08:26:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kirilldanshin]]></title>
+            <description><![CDATA[<p>привет! на этой неделе с вами я, Кирилл Даншин, и я гофер. ну что, кто как относится к Go? ;)</p>
+]]></description>
+            <link>https://backendsecret.ru/kirilldanshin/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/kirilldanshin/</guid>
+            <pubDate>Mon, 14 Nov 2016 08:18:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EugeneGrachev]]></title>
+            <description><![CDATA[<p>Всем привет! На этой недели с вами Евгений. Я python разработчик. И палец <a href="https://twitter.com/backendsecret" title="Разработчик бэкенда">@backendsecret</a> указал на меня. Ну что поехали!</p>
+]]></description>
+            <link>https://backendsecret.ru/EugeneGrachev/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/EugeneGrachev/</guid>
+            <pubDate>Mon, 07 Nov 2016 09:35:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[validoll]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе с вами я <a href="https://twitter.com/validoll" title="Vyacheslav Malchik">@validoll</a>. Работаю в <a href="https://twitter.com/adyax" title="Adyax">@adyax</a> занимаюсь разработкой бэкендов на Drupal.</p>
+]]></description>
+            <link>https://backendsecret.ru/validoll/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/validoll/</guid>
+            <pubDate>Mon, 31 Oct 2016 09:36:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[alexanius]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе с вами Алексей <a href="https://twitter.com/alexanius" title="Алексей Маркин">@alexanius</a> Маркин, программист из отдела оптимизирующих компиляторов.</p>
+]]></description>
+            <link>https://backendsecret.ru/alexanius/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/alexanius/</guid>
+            <pubDate>Mon, 24 Oct 2016 06:53:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[alexeyshockov]]></title>
+            <description><![CDATA[<p>Москвичи и сочувствующие: 15 ноября пройдёт конференция DevOps Pro. Интересные темы, много европейских докладчиков. <a href="https://t.co/GRi0o7NivK" title="http://www.devopspro.ru">devopspro.ru</a></p>
+]]></description>
+            <link>https://backendsecret.ru/alexeyshockov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/alexeyshockov/</guid>
+            <pubDate>Tue, 18 Oct 2016 08:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[validator_ru]]></title>
+            <description><![CDATA[<p>Привет! Меня зовут Алексей Балабошко, также меня зовут <a href="https://twitter.com/validator_ru" title="Alex Balaboshko">@validator_ru</a>, я делаю всякие разные сайты уже достаточно давно.</p>
+]]></description>
+            <link>https://backendsecret.ru/validator_ru/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/validator_ru/</guid>
+            <pubDate>Mon, 10 Oct 2016 09:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tmshv]]></title>
+            <description><![CDATA[<p>Всем привет! Меня зовут Роман (<a href="https://twitter.com/tmshv" title="Roman Timashev">@tmshv</a>), уже целых 2 месяца работаю  бэкенд-разработчиком.</p>
+]]></description>
+            <link>https://backendsecret.ru/tmshv/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/tmshv/</guid>
+            <pubDate>Mon, 03 Oct 2016 07:26:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mfilippovich]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе с вами <a href="https://twitter.com/mfilippovich" title="Maxim Filippovich">@mfilippovich</a> – CTO at <a href="https://t.co/EZfaK4ts44" title="http://hyperadx.com">hyperadx.com</a></p>
+]]></description>
+            <link>https://backendsecret.ru/mfilippovich/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/mfilippovich/</guid>
+            <pubDate>Mon, 26 Sep 2016 08:31:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[hotsyk]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе в вами <a href="https://twitter.com/hotsyk" title="Volodymyr Hotsyk">@hotsyk</a> - python developer в <a href="https://t.co/IwigynmyPz" title="http://mavrx.co">mavrx.co</a> и организатор <a href="https://twitter.com/uapycon" title="PyCon Ukraine">@uapycon</a>.</p>
+]]></description>
+            <link>https://backendsecret.ru/hotsyk/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/hotsyk/</guid>
+            <pubDate>Mon, 19 Sep 2016 07:08:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[davetoxa]]></title>
+            <description><![CDATA[<p>Всем привет! Я <a href="https://twitter.com/davetoxa" title="Anton Cherepanov">@davetoxa</a> Full-Stack Engineer в <a href="https://twitter.com/babbel" title="Babbel">@babbel</a> Ментор в <a href="https://twitter.com/mkdev_me" title="mkdev.me">@mkdev_me</a> и просто хороший человек ☺️</p>
+]]></description>
+            <link>https://backendsecret.ru/davetoxa/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/davetoxa/</guid>
+            <pubDate>Mon, 29 Aug 2016 08:19:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[undassa_]]></title>
+            <description><![CDATA[<p>Всем привет! Эту неделю я и вся моя команда будем вести этот твиттер. Надеюсь это будет для вас полезно ) <a href="https://t.co/e6Zjopf07D">pic.twitter.com/e6Zjopf07D</a></p>
+]]></description>
+            <link>https://backendsecret.ru/undassa_/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/undassa_/</guid>
+            <pubDate>Mon, 22 Aug 2016 17:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[en_austin]]></title>
+            <description><![CDATA[<p>Всем привет! Я - <a href="https://twitter.com/en_austin" title="Vladimir `AusTiN`">@en_austin</a>, и на этой неделе мы будем говорить про бэкенды (и не только).</p>
+]]></description>
+            <link>https://backendsecret.ru/en_austin/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/en_austin/</guid>
+            <pubDate>Mon, 15 Aug 2016 08:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AntonKalyaev]]></title>
+            <description><![CDATA[<p>Всем привет! Меня зовут Антон (<a href="https://twitter.com/AntonKalyaev" title="Anton">@AntonKalyaev</a>), последние 2 года пишу на <a href="https://twitter.com/search?q=%23erlang">#erlang</a></p>
+]]></description>
+            <link>https://backendsecret.ru/AntonKalyaev/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/AntonKalyaev/</guid>
+            <pubDate>Mon, 08 Aug 2016 08:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[yelbota]]></title>
+            <description><![CDATA[<p>Всем привет! С вами запоздалый разработчик бэкенда <a href="https://twitter.com/yelbota" title="Aleksey Fomkin">@yelbota</a>.</p>
+]]></description>
+            <link>https://backendsecret.ru/yelbota/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/yelbota/</guid>
+            <pubDate>Wed, 03 Aug 2016 08:36:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mogilnikov]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе с вами <a href="https://twitter.com/mogilnikov" title="Alexey Mogilnikov">@mogilnikov</a>. Занимаюсь разработкой давно, приходилось писать продакшн код на Delphi, С#, Erlang и Ruby.</p>
+]]></description>
+            <link>https://backendsecret.ru/mogilnikov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/mogilnikov/</guid>
+            <pubDate>Mon, 25 Jul 2016 07:40:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mishok13 ]]></title>
+            <description><![CDATA[<p>Здравствуйте, меня зовут Андрей и я алко... эээ, нет, программист, программист в первую очередь. Программист на Clojure.</p>
+]]></description>
+            <link>https://backendsecret.ru/mishok13 /</link>
+            <guid isPermaLink="true">https://backendsecret.ru/mishok13 /</guid>
+            <pubDate>Mon, 18 Jul 2016 05:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fodoj]]></title>
+            <description><![CDATA[<p>Привет-привет. На этой неделе с вами Кирилл Ширинкин <a href="https://twitter.com/Fodoj" title="Kirill Shirinkin">@Fodoj</a></p>
+]]></description>
+            <link>https://backendsecret.ru/fodoj/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/fodoj/</guid>
+            <pubDate>Mon, 04 Jul 2016 05:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[smirnov]]></title>
+            <description><![CDATA[<p>Здравствуйте! На этой неделе поговорим о бережливом развитии бизнеса. Я Иван <a href="https://twitter.com/smirnov" title="Иван Смирнов">@smirnov</a> — преподаватель и консультант.</p>
+]]></description>
+            <link>https://backendsecret.ru/smirnov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/smirnov/</guid>
+            <pubDate>Mon, 27 Jun 2016 08:29:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ruxeg]]></title>
+            <description><![CDATA[<p>Привет. На этой неделе с вами <a href="https://twitter.com/ruxeg" title="ruX">@ruxeg</a><br />
+Будет много про kotlin, nodejs, java и стартапы</p>
+]]></description>
+            <link>https://backendsecret.ru/ruxeg/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/ruxeg/</guid>
+            <pubDate>Mon, 20 Jun 2016 10:51:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[netandreus]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе <a href="https://twitter.com/backendsecret" title="Разработчик бэкенда">@backendsecret</a> буду вести я, <a href="https://twitter.com/netandreus" title="Andrey">@netandreus</a>. Поговорим про backend-разработку и devops.</p>
+]]></description>
+            <link>https://backendsecret.ru/netandreus/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/netandreus/</guid>
+            <pubDate>Mon, 06 Jun 2016 08:06:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Timrael]]></title>
+            <description><![CDATA[<p>Всем привет, меня зовут Тимур <a href="https://twitter.com/Timrael" title="Timur Kozmenko">@Timrael</a> Козьменко. Я живу на Пхукете и работаю в <a href="https://twitter.com/aviasales" title="Aviasales.ru">@aviasales</a> уже 3 года. А так сам родом из Владивостока.</p>
+]]></description>
+            <link>https://backendsecret.ru/Timrael/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/Timrael/</guid>
+            <pubDate>Mon, 30 May 2016 09:22:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[smira]]></title>
+            <description><![CDATA[<p>Всем привет! Эту неделю с вами буду я (<a href="https://twitter.com/smira" title="Andrey Smirnov">@smira</a>), Go, проектирование, Cassandra, микросервисы, нагрузка, удаленная работа, … спрашивайте!</p>
+]]></description>
+            <link>https://backendsecret.ru/smira/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/smira/</guid>
+            <pubDate>Mon, 23 May 2016 13:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LK4D4math]]></title>
+            <description><![CDATA[<p>Всем привет. Меня зовут Саша, я работаю в компании <a href="https://twitter.com/docker" title="Docker">@docker</a> уже почти 2 года и на этой неделе веду этот твиттер.</p>
+]]></description>
+            <link>https://backendsecret.ru/LK4D4math/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/LK4D4math/</guid>
+            <pubDate>Mon, 16 May 2016 12:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[postgresmen]]></title>
+            <description><![CDATA[<p>Привет! На этой неделе будет много Postgres 🐘 😀</p>
+]]></description>
+            <link>https://backendsecret.ru/postgresmen/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/postgresmen/</guid>
+            <pubDate>Mon, 18 Apr 2016 08:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[servzin]]></title>
+            <description><![CDATA[<p>Всем привет! С вами <a href="https://twitter.com/servzin" title="Сергей Зиновьев">@servzin</a>, и я буду развлекать вас эту неделю. Поговорим об open source, Ruby, читаемости, тестировании и многом другом.</p>
+]]></description>
+            <link>https://backendsecret.ru/servzin/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/servzin/</guid>
+            <pubDate>Mon, 11 Apr 2016 09:42:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gvsmirnov]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе с вами <a href="https://twitter.com/gvsmirnov" title="Gleb Smirnov">@gvsmirnov</a>. Мониторинг, перформанс, тесты, многопоточность, Байесовский Заговор, вот это всё.</p>
+]]></description>
+            <link>https://backendsecret.ru/gvsmirnov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/gvsmirnov/</guid>
+            <pubDate>Mon, 04 Apr 2016 05:35:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[estet]]></title>
+            <description><![CDATA[<p>Всем привет! С вами  Сергей Бронников, эту неделю развлекать вас здесь буду я. Может кто-то уже подписан на мой аккаунт <a href="https://twitter.com/estet" title="Sergey Bronnikov">@estet</a>.</p>
+]]></description>
+            <link>https://backendsecret.ru/estet/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/estet/</guid>
+            <pubDate>Mon, 28 Mar 2016 09:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[vivaldi_ru]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе тема - браузеры и всё, что с ними связано. Буду отвечать сам, если не смогу - уточню у девелоперов Vivaldi :-)</p>
+]]></description>
+            <link>https://backendsecret.ru/vivaldi_ru/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/vivaldi_ru/</guid>
+            <pubDate>Mon, 21 Mar 2016 08:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PetrMyazin]]></title>
+            <description><![CDATA[<p>Всем привет! Меня зовут Пётр и на этой неделе я расскажу все секреты разработчика бэкенда, которые знаю!</p>
+]]></description>
+            <link>https://backendsecret.ru/PetrMyazin/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/PetrMyazin/</guid>
+            <pubDate>Mon, 14 Mar 2016 06:38:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dronmdf]]></title>
+            <description><![CDATA[<p>Эту неделю с вами буду я, Андрей Валяев. <a href="https://twitter.com/Dronmdf" title="Андрей Валяев">@Dronmdf</a>.<br />
+Я работаю в компании Код Безопасности <a href="https://twitter.com/Security_Code" title="Код Безопасности">@Security_Code</a>, в группе разработки Континент.</p>
+]]></description>
+            <link>https://backendsecret.ru/dronmdf/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/dronmdf/</guid>
+            <pubDate>Mon, 07 Mar 2016 07:14:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AnnaMelekhova]]></title>
+            <description><![CDATA[<p>Всем привет! с вами Анна Мелехова (Воробьева), 11+ лет в виртуализации, компания Virtuozzo (Parallels)</p>
+]]></description>
+            <link>https://backendsecret.ru/AnnaMelekhova/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/AnnaMelekhova/</guid>
+            <pubDate>Mon, 29 Feb 2016 08:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DenikeWeb]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе с вами <a href="https://twitter.com/DenikeWeb" title="Драгомирик Денис">@DenikeWeb</a> — фрилансер, full stack разработчик, бекенд пишу на PHP, парсеры — на Java</p>
+]]></description>
+            <link>https://backendsecret.ru/DenikeWeb/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/DenikeWeb/</guid>
+            <pubDate>Mon, 15 Feb 2016 12:46:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[paaleksey]]></title>
+            <description><![CDATA[<p>Всем привет! С вами <a href="https://twitter.com/paaleksey" title="Aleksey Palazhchenko">@paaleksey</a>, в настоящий момент простой Go-разработчик, организатор встреч Golang Moscow и соведущий <a href="https://twitter.com/GolangShow" title="GolangShow">@GolangShow</a></p>
+]]></description>
+            <link>https://backendsecret.ru/paaleksey/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/paaleksey/</guid>
+            <pubDate>Mon, 08 Feb 2016 08:32:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[retran]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе с вами <a href="https://twitter.com/retran" title="Andrew Vasilyev">@retran</a>.</p>
+]]></description>
+            <link>https://backendsecret.ru/retran/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/retran/</guid>
+            <pubDate>Mon, 01 Feb 2016 09:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kukuruzovich]]></title>
+            <description><![CDATA[<p>всем привет, эту неделю ведет  <a href="https://twitter.com/Kukuruzovich" title="Bro, Not Bro">@Kukuruzovich</a> , стыдно признаться, что php программист, но у каждого свои недостатки. <a href="https://t.co/EyflTPEZLk">pic.twitter.com/EyflTPEZLk</a></p>
+]]></description>
+            <link>https://backendsecret.ru/Kukuruzovich/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/Kukuruzovich/</guid>
+            <pubDate>Mon, 25 Jan 2016 20:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dlagoza]]></title>
+            <description><![CDATA[<p>Всем привет! От сегодня и до конца недели с вами <a href="https://twitter.com/dlagoza" title="Dmitry Lagoza">@dlagoza</a>. Я DevOps и Go Dev в <a href="https://twitter.com/SoftServeInc" title="SoftServe">@SoftServeInc</a>.</p>
+]]></description>
+            <link>https://backendsecret.ru/dlagoza/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/dlagoza/</guid>
+            <pubDate>Mon, 18 Jan 2016 11:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[shiroginne]]></title>
+            <description><![CDATA[<p>Доброе утро, большой IT! ☕️</p>
+<p>Эту неделю с вами буду я - Mac Shifford (известный в интернетах так) <a href="https://twitter.com/Shiroginne" title="Mac Shifford">@Shiroginne</a> из солнечного Минска</p>
+]]></description>
+            <link>https://backendsecret.ru/shiroginne/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/shiroginne/</guid>
+            <pubDate>Mon, 11 Jan 2016 06:37:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[backendsecret]]></title>
+            <description><![CDATA[<p>Добрый вечер! Вот и я, Дэд Мороз Бэкендович!</p>
+]]></description>
+            <link>https://backendsecret.ru/backendsecret/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/backendsecret/</guid>
+            <pubDate>Mon, 28 Dec 2015 18:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blohin]]></title>
+            <description><![CDATA[<p>Всем привет, с вами Николай <a href="https://twitter.com/Blohin" title="Nikolay Blokhin">@Blohin</a>. Пишу backend на Python и иногда frontend на JS.</p>
+]]></description>
+            <link>https://backendsecret.ru/Blohin/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/Blohin/</guid>
+            <pubDate>Mon, 21 Dec 2015 07:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[axique]]></title>
+            <description><![CDATA[<p>Всем привет, на связи <a href="https://twitter.com/axique" title="Kyrylo Perevozchykov">@axique</a>. Меня зовут Кирилл и я разработчик бэкенда в <a href="https://twitter.com/DataRobot" title="DataRobot">@DataRobot</a>.</p>
+]]></description>
+            <link>https://backendsecret.ru/axique/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/axique/</guid>
+            <pubDate>Mon, 14 Dec 2015 08:24:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[M0sth8]]></title>
+            <description><![CDATA[<p>Всем привет. На этой неделе с вами <a href="https://twitter.com/M0sth8" title="M0sth8">@M0sth8</a> и мы будем говорить о языке Go, иммиграции, стартапах и обо всём что вам интересно.</p>
+]]></description>
+            <link>https://backendsecret.ru/M0sth8/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/M0sth8/</guid>
+            <pubDate>Mon, 07 Dec 2015 13:34:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[heapyhop]]></title>
+            <description><![CDATA[<p>Всем привет, эту неделю с вами Full Stack разработчик из Минска, Руслан :)</p>
+]]></description>
+            <link>https://backendsecret.ru/heapyhop/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/heapyhop/</guid>
+            <pubDate>Mon, 30 Nov 2015 10:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lambdadmitry]]></title>
+            <description><![CDATA[<p>Привет, на связи опоздавший секретный программист, и сегодня мы поговорим о тщетности бытия и новом. Для начала опрос</p>
+]]></description>
+            <link>https://backendsecret.ru/lambdadmitry/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/lambdadmitry/</guid>
+            <pubDate>Fri, 27 Nov 2015 10:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ctrlok]]></title>
+            <description><![CDATA[<p>Привет. Меня зовут Сева. Я platform engineer в <a href="https://twitter.com/Grammarly" title="Grammarly">@Grammarly</a> и эту неделю вместе с вами буду обсуждать devops.</p>
+]]></description>
+            <link>https://backendsecret.ru/ctrlok/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/ctrlok/</guid>
+            <pubDate>Mon, 16 Nov 2015 07:39:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ipronix]]></title>
+            <description><![CDATA[<p>Доброе утро планета! Меня зовут Дима и я консультант. В детстве я не знал о такой профессии, потому мечтал стать военным.</p>
+]]></description>
+            <link>https://backendsecret.ru/ipronix/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/ipronix/</guid>
+            <pubDate>Mon, 09 Nov 2015 08:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rpashkoff]]></title>
+            <description><![CDATA[<p>Привет всем, с этого момента и до конца недели на проводе <a href="https://twitter.com/rpashkoff" title="Ruslan Pashkoff">@rpashkoff</a> и <a href="https://twitter.com/ru_Parallels" title="Parallels по-русски">@ru_Parallels</a></p>
+]]></description>
+            <link>https://backendsecret.ru/rpashkoff/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/rpashkoff/</guid>
+            <pubDate>Mon, 02 Nov 2015 07:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[borovikov]]></title>
+            <description><![CDATA[<p>Все привет! Меня зовут Денис Боровиков. Сейчас живу в Берлине, разрабатываю поиск в Zalando.</p>
+]]></description>
+            <link>https://backendsecret.ru/borovikov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/borovikov/</guid>
+            <pubDate>Mon, 26 Oct 2015 09:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AlexSerbul]]></title>
+            <description><![CDATA[<p>Всем привет! Сегодня с вами я. Поговорим о сложном просто, плакать разрешается, удары в пах - тоже. Тема - bigdata, машинное обучение.</p>
+]]></description>
+            <link>https://backendsecret.ru/AlexSerbul/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/AlexSerbul/</guid>
+            <pubDate>Mon, 19 Oct 2015 08:57:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[anton_sunrise]]></title>
+            <description><![CDATA[<p>Привет всем, на этой неделе с вами буду я, представитель темной стороны силы (менеджеров) <a href="https://twitter.com/anton_sunrise" title="Anton Marchenko">@anton_sunrise</a> )) 1/6</p>
+]]></description>
+            <link>https://backendsecret.ru/anton_sunrise/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/anton_sunrise/</guid>
+            <pubDate>Mon, 12 Oct 2015 06:44:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[difezza]]></title>
+            <description><![CDATA[<p>Привет, уважаемый фолловер! Меня зовут Денис Макрушин, и на этой неделе мы поговорим об информационной безопасности и ее роли в разработке.</p>
+]]></description>
+            <link>https://backendsecret.ru/difezza/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/difezza/</guid>
+            <pubDate>Mon, 05 Oct 2015 11:11:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[anton_davydov]]></title>
+            <description><![CDATA[<p>Всем привет!<br />
+На этой неделе с вами будет <a href="https://twitter.com/anton_davydov" title="Davy Dovanton">@anton_davydov</a> и я надеюсь, что вы любите опенсорс так же как и я :)</p>
+]]></description>
+            <link>https://backendsecret.ru/anton_davydov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/anton_davydov/</guid>
+            <pubDate>Mon, 28 Sep 2015 07:32:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[listochkin]]></title>
+            <description><![CDATA[<p>Всем доброе утрj! Эту неделю с вам <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> - веб-разработчик из Киева, ведущий чатов <a href="https://t.co/HPLyy7P33Z" title="https://gitter.im/orgs/dev-ua/rooms">gitter.im/orgs/dev-ua/ro…</a> и один из <a href="https://twitter.com/kottans_org" title="Kottans">@kottans_org</a></p>
+]]></description>
+            <link>https://backendsecret.ru/listochkin/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/listochkin/</guid>
+            <pubDate>Mon, 21 Sep 2015 11:18:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kurmanov]]></title>
+            <description><![CDATA[<p>Доброе утро, подписчики! Меня зовут Самат Курманов (<a href="https://twitter.com/kurmanov" title="Samat Kurmanov">@kurmanov</a>) и эту неделю твиттер веду я) Работаю в Microsoft: Bing Multimedia Relevance</p>
+]]></description>
+            <link>https://backendsecret.ru/kurmanov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/kurmanov/</guid>
+            <pubDate>Mon, 14 Sep 2015 09:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lomakin]]></title>
+            <description><![CDATA[<p>Всем привет! Меня зовут Александр Ломакин. Я директор по веб-разработке в компании Rambler&amp;Co. Буду вам надоедать на этой неделе :)</p>
+]]></description>
+            <link>https://backendsecret.ru/lomakin/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/lomakin/</guid>
+            <pubDate>Mon, 07 Sep 2015 09:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[de_gis]]></title>
+            <description><![CDATA[<p>День добрый,коллеги.С некоторым опозданием,но всё-таки присоединяюсь к теме бэка. На этой неделе предлагаю обсудить ароматы <a href="https://twitter.com/search?q=%23Java">#Java</a></p>
+]]></description>
+            <link>https://backendsecret.ru/de_gis/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/de_gis/</guid>
+            <pubDate>Tue, 01 Sep 2015 08:29:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dizballanze]]></title>
+            <description><![CDATA[<p>Всем привет! Эту неделю здесь с вами буду я <a href="https://twitter.com/dizballanze" title="Yuriy Shikanov">@dizballanze</a>. Спасибо <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> за приглашение.</p>
+]]></description>
+            <link>https://backendsecret.ru/dizballanze/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/dizballanze/</guid>
+            <pubDate>Mon, 24 Aug 2015 07:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SBozhko]]></title>
+            <description><![CDATA[<p>Доброе утро понедельника! По просьбе <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> на этой неделе с вами <a href="https://twitter.com/SBozhko" title="Svetλana">@SBozhko</a> из славного города Минска.</p>
+]]></description>
+            <link>https://backendsecret.ru/SBozhko/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/SBozhko/</guid>
+            <pubDate>Mon, 17 Aug 2015 06:41:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dsimonov]]></title>
+            <description><![CDATA[<p>Привет! <a href="https://twitter.com/dsimonov" title="Dmitriy V. Simonov">@dsimonov</a> с вами! Уважаемый <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> предложил подежурить тут недельку на правах perl бекенд-дева с некоторым опытом.</p>
+]]></description>
+            <link>https://backendsecret.ru/dsimonov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/dsimonov/</guid>
+            <pubDate>Mon, 10 Aug 2015 03:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lecharton]]></title>
+            <description><![CDATA[<p>Привет! Меня зовут Екатерина Трефилова, возможно вы меня знаете как <a href="https://twitter.com/Lecharton" title="Ekaterina Trefilova">@Lecharton</a></p>
+]]></description>
+            <link>https://backendsecret.ru/lecharton/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/lecharton/</guid>
+            <pubDate>Sun, 02 Aug 2015 21:59:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KSDaemon]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе ведущим буду я, <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a>, разработчик, архитектор, Oracle OCP, подкастер, активный участник разных сообществ.</p>
+]]></description>
+            <link>https://backendsecret.ru/KSDaemon/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/KSDaemon/</guid>
+            <pubDate>Mon, 27 Jul 2015 09:15:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[_bugov]]></title>
+            <description><![CDATA[<p>Всем привет! Начинается околопитоняшная неделя!</p>
+]]></description>
+            <link>https://backendsecret.ru/_bugov/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/_bugov/</guid>
+            <pubDate>Mon, 20 Jul 2015 02:42:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4gophers]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе вас буду развлекать я.</p>
+]]></description>
+            <link>https://backendsecret.ru/4gophers/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/4gophers/</guid>
+            <pubDate>Mon, 13 Jul 2015 08:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[zkonstantin]]></title>
+            <description><![CDATA[<p>Доброй ночи мальчики и девочки, настраиваю репликацию mongodb, а вы как проводите время?</p>
+]]></description>
+            <link>https://backendsecret.ru/zkonstantin/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/zkonstantin/</guid>
+            <pubDate>Sun, 05 Jul 2015 19:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[nmishin]]></title>
+            <description><![CDATA[<p>Итак, господа, эту неделю этот Твиттер аккаунт будет посвящен языку <a href="https://twitter.com/search?q=%23Perl">#Perl</a> и его буду вести я, Николай Мишин <a href="https://twitter.com/nmishin" title="nikolay mishin">@nmishin</a></p>
+]]></description>
+            <link>https://backendsecret.ru/nmishin/</link>
+            <guid isPermaLink="true">https://backendsecret.ru/nmishin/</guid>
+            <pubDate>Sun, 28 Jun 2015 22:56:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
